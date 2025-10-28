@@ -1,1 +1,1 @@
-kubectl apply -f pod-deploy.yaml
+kubectl create -f pod-deploy.yaml
